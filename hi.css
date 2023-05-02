@@ -1,0 +1,65 @@
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',serif;
+    box-sizing: border-box;
+}
+
+
+#oneid{
+    width: auto;
+    border:ridge 2px #09283e84 ;
+    padding: 0 px;
+    padding-top: 20px;
+    margin:0 auto;
+background-color: rgba(11, 25, 70, 0.462);;
+  
+font-size:x-large;
+font-weight:bolder;
+font-style: italic;
+word-spacing: 7px;
+background-position:center ;
+ background-attachment:local;
+ 
+
+}
+.p1{
+    width: auto;
+    margin: auto;
+    border:dashed 1px #354d5d52 ;
+    color: rgb(13, 13, 13);
+    
+    font-size:x-large;
+    font-weight:bolder;
+font-style: italic;
+background-color: rgba(52, 75, 152, 0.573);
+word-spacing: 7px;
+
+
+}
+
+
+.img{
+    padding-top: 100px;
+    background-color:   rgba(52, 75, 152, 0.573);
+    padding-left: 300px;
+}
+ 
+ ul{
+    width:300%;
+    position:absolute;
+    down: 0;
+    left:0%;
+    padding: 20px 3%;
+    padding-left: 40px;
+    font-size: 20px;
+    align-items: center;
+    background:rgba(52, 75, 152, 0.573);
+    border-block-start-style:initial;
+
+}
+ul li a:hover{
+        -webkit-text-stroke:1px hsla(0, 76%, 34%, 0.991) ;
+        color: transparent;
+}
